@@ -1,0 +1,22 @@
+html, body {
+    background-color: #FBF3F1;
+    height: 100%;
+}
+
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 300px;
+    padding: 1%;
+}
+nav {
+    display: flex;
+    width: 100%;
+    height: 20%;
+    padding: 1%;
+    align-items: center;
+    justify-content: center;
+}
